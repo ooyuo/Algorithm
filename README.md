@@ -5,8 +5,8 @@ Q&A형식으로 문제와 답을 기술할 것이다.
 
 ## 1. 목차
 ### 1.1 배열과 문자열
-- [이진 탐색]
-- [배열 요소 중복제거]
-- [hash]
-- [순열확인 알고리즘]
+- [이진 탐색](https://github.com/ooyuo/Algorithm/blob/master/2019-10-17-algorithm-binary-search.md)
+- [배열 요소 중복제거](https://github.com/ooyuo/Algorithm/blob/master/2019-10-22-algorithm-deduplication.md)
+- [hash](https://github.com/ooyuo/Algorithm/blob/master/2019-10-24-algorithm-hash01.md)
+- [순열확인 알고리즘](https://github.com/ooyuo/Algorithm/blob/master/2019-10-24-algorithm-permutation.md)
 - [문자열 치환](https://github.com/ooyuo/Algorithm/blob/master/2019-10-28-string01.md)

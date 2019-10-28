@@ -1,16 +1,6 @@
----  
-title: "이진탐색(Binary Search) 알고리즘"  
-# permalink: /Archive/test/  
-# layout: category  
-categories: 
-    - Archive  
-    - Algorithm
-tags:   
-    - algorithm  
-    - TIL  
-author_profile: true  
-toc_sticky: true  
---- 
+# 이진탐색(Binary Search) 알고리즘  
+  
+  
 이진탐색은 정렬된 항목 목록에서 항목을 찾기위한 효율적인 알고리즘이다. 가능한 위치를 한 곳으로 좁힐 때까지 항목을 포함할 수 있는 목록 부분의 절반을 반복하여 작동한다.  
 
 이진탐색을 사용하는 가장 일반적인 방법 중 하나는 배열에서 항목을 찾는 것이다.  

@@ -1,17 +1,7 @@
----  
-title: "[javascript] 배열에서 중복제거하기"  
-# permalink: /Archive/test/  
-# layout: category  
-categories: 
-    - Archive  
-    - Algorithm
-tags:   
-    - algorithm  
-    - TIL  
-author_profile: true  
-toc_sticky: true  
---- 
-자바스크립트로 배열안에서 중복을 제거하는 방법
+# 배열에서 중복제거하기  
+  
+
+자바스크립트로 배열안에서 중복을 제거하는 방법  
 
 ```javascript
 const array = ['1','1','2','3','4','5','3'];
