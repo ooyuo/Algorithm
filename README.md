@@ -10,3 +10,6 @@ Q&A형식으로 문제와 답을 기술할 것이다.
 - [hash](https://github.com/ooyuo/Algorithm/blob/master/2019-10-24-algorithm-hash01.md)
 - [순열확인 알고리즘](https://github.com/ooyuo/Algorithm/blob/master/2019-10-24-algorithm-permutation.md)
 - [문자열 치환](https://github.com/ooyuo/Algorithm/blob/master/2019-10-28-string01.md)
+- [회문(palindrome)확인](https://github.com/ooyuo/Algorithm/blob/master/2019-11-01-algorithm-palindrome.md)
+- [문자열 편집](https://github.com/ooyuo/Algorithm/blob/master/2019-11-03-algorithm-string.md)
+- [문자열 압축](https://github.com/ooyuo/Algorithm/blob/master/2019-11-04-algorithm-string02.md)

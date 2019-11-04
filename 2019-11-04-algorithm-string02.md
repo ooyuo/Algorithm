@@ -1,4 +1,4 @@
-# 문자열 압축 in Javascript
+# 문자열 압축
 
 
 

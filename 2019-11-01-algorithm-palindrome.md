@@ -1,4 +1,4 @@
-# [Algorithm] 회문(palindrome)확인 in Javascript
+# 회문(palindrome)확인
 
 
 
