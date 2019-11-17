@@ -55,9 +55,3 @@ function solution(participant, completion) {
   
 solution(participant, completion);  
 ```  
-  
-  
-  
-문제 참고  
-  
-[프로그래머스]: https://programmers.co.kr/learn/courses/30/lessons/42576  
