@@ -9,9 +9,12 @@
 s는 길이가 1 이상, 100이하인 스트링입니다.
 입출력 예
 
-|:--------|:--------|
-|"abcde"|"C"|
-|"qwer"|"we"|
+| s       | return |
+| ------- | ------ |
+| "abcde" | "c"    |
+| "qwer"  | "we"   |
+
+
 
 ```javascript
 function solution(s) {
