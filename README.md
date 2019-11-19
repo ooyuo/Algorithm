@@ -17,3 +17,4 @@ javascript언어를 기반으로한 알고리즘을 학습하고 기록한다.
 - [hash 알고리즘](https://github.com/ooyuo/Algorithm/blob/master/2019-10-24-algorithm-programmers-01.md)
 - [쇠막대기](https://github.com/ooyuo/Algorithm/blob/master/2019-11-17-algorithm-programmers-02.md)
 - [k번째 수](https://github.com/ooyuo/Algorithm/blob/master/2019-11-17-algorithm-programmers-03.md)
+- [가운데 글자 가져오기](https://github.com/ooyuo/Algorithm/blob/master/2019-11-18-algorithm-programmers-04.md)
