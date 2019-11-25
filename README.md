@@ -20,3 +20,4 @@ javascript언어를 기반으로한 알고리즘을 학습하고 기록한다.
 - [가운데 글자 가져오기](https://github.com/ooyuo/Algorithm/blob/master/2019-11-18-algorithm-programmers-04.md)
 - [나누어 떨어지는 숫자 배열](https://github.com/ooyuo/Algorithm/blob/master/2019-11-19-algorithm-programmers-05.md)
 - [문자열 내림차순으로 배치하기](https://github.com/ooyuo/Algorithm/blob/master/2019-11-22-algorithm-programmers-06.md)
+- [약수의 합](https://github.com/ooyuo/Algorithm/blob/master/2019-11-25-algorithm-programmers-07.md)
