@@ -1,6 +1,6 @@
 # Algorithm
 
-javascript언어를 기반으로한 알고리즘을 학습하고 기록한다.
+javascript, java언어를 기반으로한 알고리즘을 학습하고 기록한다.
 
 ## 목차
 ### 1. 배열과 문자열
