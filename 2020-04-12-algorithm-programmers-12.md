@@ -16,7 +16,7 @@
 
 **입출력 예**
 
-![결과](./src/images/result-체육복.png)
+![결과](./src/images/result-체육복.PNG)
 
 ```javascript
 const solution = (n, lost, reserve) => {
