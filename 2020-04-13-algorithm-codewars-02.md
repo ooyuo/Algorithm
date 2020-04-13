@@ -12,11 +12,10 @@ In this kata you will create a function that takes a list of non-negative intege
 
 ```javascript
 function filter_list(l) {
-  const res = l.filter(function(item) {
-    return typeof item === "number"
+  const res = l.filter(function (item) {
+    return typeof item === "number";
   });
-  
+
   return res;
 }
-};
 ```
