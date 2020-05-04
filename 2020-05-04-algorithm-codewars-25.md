@@ -16,3 +16,11 @@ function getCount(str) {
   return vowel ? vowel.length : 0;
 }
 ```
+
+**Clever Solution**
+
+```javascript
+function getCount(str) {
+  return (str.match(/[aeiou]/gi) || []).length;
+}
+```
