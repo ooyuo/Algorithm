@@ -60,3 +60,8 @@ javascript, java언어를 기반으로한 알고리즘을 학습하고 기록한
 - [Find the divisors!](https://github.com/ooyuo/Algorithm/blob/master/2020-05-04-algorithm-codewars-23.md)
 - [My Languages](https://github.com/ooyuo/Algorithm/blob/master/2020-05-04-algorithm-codewars-24.md)
 - [Vowel Count](https://github.com/ooyuo/Algorithm/blob/master/2020-05-04-algorithm-codewars-25.md)
+- [Mumbling](https://github.com/ooyuo/Algorithm/blob/master/2020-05-05-algorithm-codewars-26.md)
+- [Get the Middle Character](https://github.com/ooyuo/Algorithm/blob/master/2020-05-05-algorithm-codewars-27.md)
+- [Highest and Lowest](https://github.com/ooyuo/Algorithm/blob/master/2020-05-05-algorithm-codewars-28.md)
+- [Descending Order](https://github.com/ooyuo/Algorithm/blob/master/2020-05-05-algorithm-codewars-29.md)
+- [Disemvowel Trolls](https://github.com/ooyuo/Algorithm/blob/master/2020-05-05-algorithm-codewars-30.md)
