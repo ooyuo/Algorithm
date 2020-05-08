@@ -26,8 +26,9 @@ javascript, java언어를 기반으로한 알고리즘을 학습하고 기록한
 - [약수의 합](https://github.com/ooyuo/Algorithm/blob/master/2019-11-25-algorithm-programmers-07.md)
 - [문자열 내 p와 y의 개수](https://github.com/ooyuo/Algorithm/blob/master/2019-11-27-algorithm-programmers-08.md)
 - [수박수박수박수박수박수?](https://github.com/ooyuo/Algorithm/blob/master/2019-12-01-algorithm-programmers-09.md)
-- [문자열을 정수로 바꾸기](https://github.com/ooyuo/Algorithm/blob/master/2019-12-06-algorithm-programmers-11.md)
+- [문자열을 정수로 바꾸기](https://github.com/ooyuo/Algorithm/blob/master/2019-12-03-algorithm-programmers-10.md)
 - [체육복](https://github.com/ooyuo/Algorithm/blob/master/2020-04-12-algorithm-programmers-12.md)
+- [문자열 내 마음대로 정렬하기](https://github.com/ooyuo/Algorithm/blob/master/2020-05-07-algorithm-programmers-13.md)
 
 ### 3. 백준 알고리즘
 
@@ -65,3 +66,5 @@ javascript, java언어를 기반으로한 알고리즘을 학습하고 기록한
 - [Highest and Lowest](https://github.com/ooyuo/Algorithm/blob/master/2020-05-05-algorithm-codewars-28.md)
 - [Descending Order](https://github.com/ooyuo/Algorithm/blob/master/2020-05-05-algorithm-codewars-29.md)
 - [Disemvowel Trolls](https://github.com/ooyuo/Algorithm/blob/master/2020-05-05-algorithm-codewars-30.md)
+- [Exes and Ohs](https://github.com/ooyuo/Algorithm/blob/master/2020-05-08-algorithm-codewars-31.md)
+- [Your order, please](https://github.com/ooyuo/Algorithm/blob/master/2020-05-09-algorithm-codewars-32.md)
