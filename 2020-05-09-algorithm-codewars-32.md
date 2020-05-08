@@ -23,7 +23,7 @@ function order(words) {
   for (let i = 0; i < sortedWords.length; i++) {
     for (let j = 0; j < wordsArr.length; j++) {
       if (wordsArr[j].includes(sortedWords[i])) {
-        res.push(wordsArr[j]) || [];
+        res.push(wordsArr[j]);
       }
     }
   }
