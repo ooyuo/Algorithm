@@ -29,6 +29,8 @@ javascript, java언어를 기반으로한 알고리즘을 학습하고 기록한
 - [문자열을 정수로 바꾸기](https://github.com/ooyuo/Algorithm/blob/master/2019-12-03-algorithm-programmers-10.md)
 - [체육복](https://github.com/ooyuo/Algorithm/blob/master/2020-04-12-algorithm-programmers-12.md)
 - [문자열 내 마음대로 정렬하기](https://github.com/ooyuo/Algorithm/blob/master/2020-05-07-algorithm-programmers-13.md)
+- [x만큼 간격이 있는 n개의 숫자](https://github.com/ooyuo/Algorithm/blob/master/2020-05-14-algorithm-programmers-14.md)
+- [자연수 뒤집어 배열로 만들기](https://github.com/ooyuo/Algorithm/blob/master/2020-05-14-algorithm-programmers-15.md)
 
 ### 3. 백준 알고리즘
 
