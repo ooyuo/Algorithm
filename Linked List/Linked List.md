@@ -1,4 +1,4 @@
-# Linked List
+# Computer Data Structures - Linked List
 
 A linked list is a linear data structure managed by linking each element with a pointer.  
 Each element is called a node and consists of a data area and a pointer area.
