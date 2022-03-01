@@ -1,17 +1,17 @@
 # Linked List
 
-A linked list is a linear data structure managed by linking each element with a pointer.
+A linked list is a linear data structure managed by linking each element with a pointer.  
 Each element is called a node and consists of a data area and a pointer area.
 
 ## Features of linked list
 
-You can add an unlimited number of elements as memory permits.
-Time required: Search - O(n), Add/Remove - O(1)
+You can add an unlimited number of elements as memory permits.  
+Time required: Search - O(n), Add/Remove - O(1)  
 There are Single Linked List, Doubly Linked List, and Circular Linked List.
 
 ## Singly Linked List
 
-It is a linked list that runs in one direction from the head to the tail.
+It is a linked list that runs in one direction from the head to the tail.  
 It is the simplest form of a linked list.
 
 ## Doubly Linked List
@@ -21,7 +21,7 @@ The size of the data structure is slightly larger than that of a Signly Linked L
 
 ## Circular Linked List
 
-It is a linked list in which the tail is connected to the head in a singly or doubly linked list.
+It is a linked list in which the tail is connected to the head in a singly or doubly linked list.  
 You can save memory. It is also used to create a circular queue.
 
 ## implemented in javascript
