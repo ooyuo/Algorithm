@@ -28,16 +28,22 @@ The number of nodes in the given tree will be in the range [1, 100].
  * @return {TreeNode}
  */
 const increasingBST = function (root) {
-  function traverse(node, tree) {
-    if (node.left) {
-      tree = traverse(node.left, tree);
-      node.left = null;
-    }
-    tree.right = node;
-    return node.right ? traverse(node.right, node) : node;
+  let tree = [];
+
+  const traverse = (node) => {
+    if (node.left) traverse(node.left);
+    tree.push(node.val);
+    if (node.right) traverse(node.right);
+  };
+  traverse(root);
+
+  const treeNode = new TreeNode(0);
+  let curr = treeNode;
+
+  for (let item of tree) {
+    curr.right = new TreeNode(item);
+    curr = curr.right;
   }
-  const seed = {};
-  traverse(root, seed);
-  return seed.right;
+  return treeNode.right;
 };
 ```
