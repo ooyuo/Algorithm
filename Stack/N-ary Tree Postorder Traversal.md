@@ -30,10 +30,10 @@
 
 ## Idea:
 
-> 1. If root is null, return the list.
-> 2. Call the recursive function (`post()`) with the children element of the root.
->    In this function, we receive root and list (initial value: []).
-> 3. If the for statement is finished(If you put all the `root.children` elements in the recursive function), push the val of the root to the stack.
+> 1. If `root` is null, return the list.
+> 2. Call the recursive function (`post()`) with the `children element of the root`.
+>    In this function, we receive `root` and `list` (initial value: []).
+> 3. If the for statement is finished (If you put all the `root.children` elements in the recursive function), push the `val` of the root to the stack.
 
 ## JavaScript Code:
 
