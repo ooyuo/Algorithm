@@ -49,13 +49,13 @@
 
 ## Idea:
 
-Let's say the `target = [1, 3]` and `n = 3`.
-
-1. `res` : declare a variable that contains the element to be returned
-2. while `i` traverses the target array, the variable `j` starts with 1 and increases by 1.
-   In the case below, `j` increases from 1 to 3.
-3. if `j` is not in the target, put `"Push", "Pop"` in the `res`
-   then, `i` minus 1 because pop() in `res`
+> Let's say the `target = [1, 3]` and `n = 3`.
+>
+> 1. `res` : declare a variable that contains the element to be returned
+> 2. while `i` traverses the target array, the variable `j` starts with 1 and increases by 1.
+>    In the case below, `j` increases from 1 to 3.
+> 3. if `j` is not in the target, put `"Push", "Pop"` in the `res`
+>    then, `i` minus 1 because pop() in `res`
 
 ## JavaScript Code:
 
