@@ -40,9 +40,9 @@
 
 ## Idea:
 
-1. As shown in the description of the problem, you should compare the elements of the `prices` array.
-2. Mutiple for statements are used, and if `prices[j] <= prices[i]`, you should change `prices[i]` to their diff.
-3. If you changed it, break the repeated statement.
+> 1. As shown in the description of the problem, you should compare the elements of the `prices` array.
+> 2. Mutiple for statements are used, and if `prices[j] <= prices[i]`, you should change `prices[i]` to their diff.
+> 3. If you changed it, break the repeated statement.
 
 ## JavaScript Code:
 
