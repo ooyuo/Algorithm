@@ -25,6 +25,29 @@ https://velog.io/@noyo0123/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-javascript-%ED%9
 ```javascript
 function solution(n, computers) {
   let answer = 0;
+  let check = new Array(n).fill().map((_) => false);
+
+  function dfs(idx) {
+    check[idx] = true;
+    for (let i = 0; i < computers.length; i++) {
+      if (computers[idx][i] == 1 && !check[i]) {
+        dfs(i);
+      }
+    }
+  }
+  for (let i = 0; i < computers.length; i++) {
+    if (!check[i]) {
+      dfs(i);
+      answer++;
+    }
+  }
+  return answer;
+}
+```
+
+```javascript
+function solution(n, computers) {
+  let answer = 0;
   let check = [];
   for (let computer of computers) {
     check.push(false);
