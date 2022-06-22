@@ -5,12 +5,12 @@ https://programmers.co.kr/learn/courses/30/lessons/64064
 ## Pattern
 
 - DFS/BFS의 목적: 모든 노드를 한 번씩 방문하는 것
-- 한 조합에 중복되는 원소가 없도록 한다. (visit 체크)
-  -> 중복제거 방버
+- 한 조합에 중복되는 원소가 없도록 한다. (visit 체크)  
+  -> 중복제거 방법
   - 1. string으로 넘어온 조합의 값들을 배열로 변경
   - 2. 배열을 오름차순으로 정렬
   - 3. 배열을 다시 string으로 변경
-  - 4. set에 저장
+  - 4. set에 저장  
        \*\* 위 과정을 거치면 set에는 문제의 조건을 만족하는 경우의 수가 중복없이 string형식으로 저장됨, set의 size를 return
 
 ---
