@@ -17,9 +17,11 @@ https://programmers.co.kr/learn/courses/30/lessons/64064
 
 ## 로직
 
+https://gwang920.github.io/algorithm/progreammers-2-64064/
+
 1. banned_id의 '\*'를 '.'로 치환
-2. matches: user_id 목록에서 정규표현식 실행
-   2.1. regex.exec(): 정규표현식 조건에 맞으면 배열로 반환해줌
+2. matches: user_id 목록에서 정규표현식 실행  
+   2.1. regex.exec(): 정규표현식 조건에 맞으면 배열로 반환해줌  
    2.2. 글자수가 같다면 matches에 넣어줌
 3. matches배열에서 isUsed에 방문하지 않았다면 방문표시, current배열에 push, bannedIdx를 1 증가해서 dfs함수 실행, isUsed를 다시 false처리
 
